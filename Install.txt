@@ -1,0 +1,19 @@
+To run the game:
+1. Download the zip file and unzip
+2. Type "make play" into the command line to enter the game
+3. Type the word "enter" (not the enter key) to begin the game
+4. Enter the number of players you would like to add, between 2 and 4. The
+game will then prompt you to enter the names of the players, one at a time.
+
+User commands:
+"move"- to begin your move
+"roll"-represents a dice roll
+"leave"-to exit a store
+When you enter a minigame:
+"start"-begins the minigame
+The minigame will have directions with what the user will do. Generally, 
+you will need to type a response and press the "enter" key to submit it.
+
+On tile 15, there is a "star store" that allows a user to buy stars. To win the game, a user must buy 2 stars.
+
+NOTE: our "makefile" was based off of A2. Commands make play, make test, and make docs can be used.
